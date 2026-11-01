@@ -1,0 +1,17 @@
+{
+    "name": "homework59",
+    "version": "1.0.0",
+    "description": "Node.js Gzip Compression and Decompression",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node main.js",
+        "test": "node --test test.js",
+        "demo": "node demo.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mmf2003/Homework59.git"
+    },
+    "license": "ISC"
+}
